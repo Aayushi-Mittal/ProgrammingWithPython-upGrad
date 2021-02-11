@@ -1,1 +1,31 @@
 # ProgrammingWithPython-upGrad
+
+## Topics:
+- [Basics of Python]()
+  - [Intro to Jupyter Notebook]()
+  - Data Types
+  - Arithmetic Operations
+  - String Operations
+  - [Practice Exercise -1]()
+- [Data Structures in Python]()
+  - Tuple
+  - Lists
+  - Set
+  - Dictionary
+  - [Practice Exercise -2]()
+  - [Practice Exercise -3]()
+- [Control Structures and Functions in Python]()
+  - Control structures
+    - If-elif-else
+    - For loop
+    - While loop
+  - List comprehensions
+  - Dictionary comprehensions
+  - Functions
+     - Map
+     - Filter
+     - Reduce
+- [OOP in Python]()
+  - Class and Objects
+  - Methods
+  - Class Inheritance and Overriding
